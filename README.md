@@ -1,2 +1,2 @@
 # Classroom-Repository
-// This is the repository used for cs120 week 2.
+// This is the public repository used for CS120 week 2.
